@@ -1,6 +1,6 @@
 # KnotCounter
 
-This is a repository for a simple script for the website [BraceletBook.com](http://BraceletBook.com "BraceletBook.com")
+This is a repository for a simple script for the website [BraceletBook.com](http://BraceletBook.com "BraceletBook.com").
 It can be used to count the amount of knots between two knots the user chose by clicking on them.
 
 If you'd like to run it simply install an extension which allows you to run custom javascript code on a website. Here are some examples:

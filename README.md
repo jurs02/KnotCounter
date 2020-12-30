@@ -7,4 +7,4 @@ If you'd like to run it simply install an extension which allows you to run cust
 - Chrome: [Custom JavaScript for Websites 2](https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk?hl=en "Custom JavaScript for Websites 2")
 - Firefox: [javascript](https://addons.mozilla.org/en-US/firefox/addon/javascript/)
 
-Then paste the code found in [popup.js](./popup.js) into the extension.
+Then go to BraceletBook.com and paste the code found in [popup.js](./popup.js) into the extension. I've also created a [video](https://youtu.be/EHs5iq85S6c) to show the installation and usage.
